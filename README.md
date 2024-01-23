@@ -1,0 +1,1 @@
+Multi-pair cable tester based on Arduino and PCF8574 modules. Can test cables with up to 24 wires and display the results. It can also investigate short-term connection interruptions. The device was built for a client from the electroacoustic industry and serves as a cable tester.
